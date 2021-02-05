@@ -1,7 +1,9 @@
 # bats
 
 Esto son algunos de los bats que uso en mi variable de entorno,
-y otros que usé en uno de mis trabajos de administración hace años.
+y otros que creé y usé en uno de mis trabajos de administración hace años.
+
+Todos ellos son para lanzar directamente con inicio+ejecutar y ahorrarnos preciados y valiosos segundos.
 
 Algunos bats requieren otros ejecutables:
 
