@@ -3,7 +3,7 @@
 REM añade entradas estáticas a la tabla arp de la interfaz "wifi"
 REM script para autoejecutar al inicio del sistema
 
-sleep 4
+TIMEOUT /T 4
 
 arp -d *
 
